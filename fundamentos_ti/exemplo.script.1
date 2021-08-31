@@ -1,1 +1,23 @@
+#!/bin/bash
+clear
+echo "primeiro parametro: $1 | segundo parametro: $2 | terceiro parametro: $3 "
+echo $0
 
+# estrutura condicional para numeros
+if [ $1 -gt 9 ]
+then
+   echo "primeiro parametro é maior que 9"
+elif [ $1 -gt 5 ]
+then
+  echo "esta entre 5 e 9"
+else
+  echo "menor que 5 "
+fi
+
+# estrutura condicional para strings
+if [[ $2 == "oi" ]]
+then
+  echo "ola "
+else
+  echo "nao entendi sua frase "
+fi
