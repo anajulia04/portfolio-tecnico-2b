@@ -1,1 +1,10 @@
-
+vim ex.1.sh
+#!/bin/bash
+echo "escolha um numero:"
+read valor
+if [ $valor -lt 0 ]
+then
+        echo "este valor é negativo!"
+else
+        echo "este valor é positivo"
+fi
