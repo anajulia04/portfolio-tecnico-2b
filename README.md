@@ -11,6 +11,8 @@
 * [atividade 1° trimestre] (https://github.com/anajulia04/portfolio-tecnico-2b/tree/main/programacao_de_aplicativo)
 ## Banco de dados(3° ano):
 * [atividade 1° trimestre] (https://github.com/anajulia04/portfolio-tecnico-2b/tree/main/Banco_de_Dados)
+## Modelagens de Sistemas(3° ano):
+* [atividade 1° trimestre] (https://github.com/anajulia04/portfolio-tecnico-2b/tree/main/modelagens_de_sistemas)
 
 # Sobre mim
 ## Currículo
