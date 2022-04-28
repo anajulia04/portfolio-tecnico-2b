@@ -10,7 +10,7 @@
 ## Programação de aplicativos(3° ano):
 * [atividade 1° trmestre] (https://github.com/anajulia04/portfolio-tecnico-2b/tree/main/programacao_de_aplicativo)
 ## Banco de dados(3° ano):
-* [atividade 1° trimestre] ()
+* [atividade 1° trimestre] (https://github.com/anajulia04/portfolio-tecnico-2b/tree/main/Banco_de_Dados)
 # Sobre mim
 ## Currículo
 ### Formação:
