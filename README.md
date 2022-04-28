@@ -8,7 +8,7 @@
 * [exemplo 2] (https://github.com/anajulia04/portfolio-tecnico-2b/blob/main/logica_computacional/exemplo.java.2)
 * [exemplo 3] (https://github.com/anajulia04/portfolio-tecnico-2b/blob/main/logica_computacional/exemplo.java.3)
 ## Programação de aplicativos(3° ano):
-* [atividade 1] ()
+* [atividade 1] (https://github.com/anajulia04/portfolio-tecnico-2b/tree/main/programacao_de_aplicativo)
 # Sobre mim
 ## Currículo
 ### Formação:
